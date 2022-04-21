@@ -1,0 +1,26 @@
+.poc{
+
+
+}
+.poc_h1{
+    text-align: center;
+    margin: 10px;
+}
+.title_div{
+    display: flex;
+    justify-content:center;
+ 
+}
+.poc_h2{
+    margin: 10px 34px
+}
+.data_div{
+    display: flex;
+    justify-content:center;
+}
+.poc_h3{
+    margin : 5px 60px;
+}
+#location_h3{
+    margin: 0px 32px;
+}
