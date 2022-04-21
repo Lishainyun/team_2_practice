@@ -1,0 +1,16 @@
+.reminder{
+    color: #f54257;
+    margin: 20px;
+    font-size: 32px;
+    animation: fadein 2s ease-in;
+}
+
+img{
+    animation: fadein 2s ease-in;
+    width:320px;
+}
+
+@keyframes fadein{
+    0% {opacity: 0}
+    100% {opacity: 1}
+}

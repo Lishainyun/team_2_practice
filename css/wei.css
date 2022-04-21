@@ -1,0 +1,9 @@
+table {
+  width: 100%;
+}
+
+caption {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 25px;
+}
